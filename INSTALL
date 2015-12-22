@@ -1,0 +1,9 @@
+Building Bantam
+
+See doc/readme-qt.rst for instructions on building Bantam QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Bantam.
+
+See doc/build-*.txt for instructions on building Bantamd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Bantam.
